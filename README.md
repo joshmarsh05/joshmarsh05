@@ -5,7 +5,7 @@ Graduating game programming student with a focus on C++ and graphics programming
 - **Advanced Diploma in Game Programming** Humber College, 2023 - Currently Pursuing
 
 ## Current Project
-**Capstone:** A Hollow Knight imitation. I'm working on it with two others over the course of my final semester of college.
+- **Capstone:** A Hollow Knight imitation. I'm working on it with two others over the course of my final semester of college.
 
 ## Contact
 - LinkedIn: (https://www.linkedin.com/in/joshua-marsh-7094362a6/)
