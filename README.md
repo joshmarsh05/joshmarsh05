@@ -1,8 +1,11 @@
 # About Me 👋
 Graduating game programming student with a focus on C++ and graphics programming. Experience developing real-time applications using OpenGL, Vulkan, and SDL, as well as working with Unity and Unreal Engine. Seeking an entry-level role in game, engine, or graphics programming.
 
-## Education
+## Education🎓
 - **Advanced Diploma in Game Programming** Humber College, 2023 - Currently Pursuing
+
+## Current Project
+**Capstone:** A Hollow Knight imitation. I'm working on it with two others over the course of my final semester of college.
 
 ## Contact
 - LinkedIn: (https://www.linkedin.com/in/joshua-marsh-7094362a6/)
